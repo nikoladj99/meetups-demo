@@ -7,5 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "dependencies": {
+    "mongodb": "^4.8.0",
+    "next": "^12.2.3"
   }
 }
